@@ -1,6 +1,6 @@
 # reader_vue
 
-> 追书神器 by vue
+> 追书神器_vue by crywolfx
 
 ## Build Setup
 
